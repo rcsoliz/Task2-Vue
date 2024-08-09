@@ -1,0 +1,28 @@
+{
+  "tipos": [
+    {
+      "id": "1",
+      "nombre": "Vacunos",
+      "descripcion": "Todos los vacunos"
+    },
+    {
+      "id": "2",
+      "nombre": "Porcinos",
+      "descripcion": "Todos los porcinos"
+    }
+  ],
+  "ganado": [
+    {
+      "id": "1",
+      "tipoId": "1",
+      "fecha": "2024-08-01",
+      "nombre": "Vaquilla"
+    },
+    {
+      "id": "2",
+      "tipoId": "1",
+      "fecha": "2024-08-01",
+      "nombre": "Nelore"
+    }
+  ]
+}

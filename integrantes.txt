@@ -1,0 +1,7 @@
+Practica2 Vue3
+Nombre(s) de integrante(s)
+-Roberto Carlos Soliz
+
+Pasos para iniciar el proyecto
+- npm install
+- npm run serve
