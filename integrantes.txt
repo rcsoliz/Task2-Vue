@@ -4,4 +4,8 @@ Nombre(s) de integrante(s)
 
 Pasos para iniciar el proyecto
 - npm install
+- npm install --save axios vue-axios
+- npm install -g  json-server@0.17.1
+- json-server --watch db.json --port 4000 "Ir al directorio donde esta db y ejectar el comando anterior"
 - npm run serve
+

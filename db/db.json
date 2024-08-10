@@ -9,20 +9,33 @@
       "id": "2",
       "nombre": "Porcinos",
       "descripcion": "Todos los porcinos"
+    },
+    {
+      "nombre": "Vovinos",
+      "telefono": "",
+      "direccion": "",
+      "descripcion": "Todos los vovinos",
+      "id": "PZZXxdH"
     }
   ],
-  "ganado": [
+  "ganados": [
     {
       "id": "1",
       "tipoId": "1",
-      "fecha": "2024-08-01",
+      "fecha": "2024-08-08",
       "nombre": "Vaquilla"
     },
     {
       "id": "2",
       "tipoId": "1",
-      "fecha": "2024-08-01",
+      "fecha": "2024-08-07",
       "nombre": "Nelore"
+    },
+    {
+      "tipoId": "2",
+      "nombre": "Cerdo Ingles",
+      "fecha": "2024-08-10",
+      "id": "GprKzgU"
     }
   ]
 }
